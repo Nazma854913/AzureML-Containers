@@ -1,3 +1,10 @@
+
+:20230324.v1
+------------------- 
+-   [CVE-2022-48303](https://ubuntu.com/security/notices/USN-5900-1)
+-   [CVE-2023-0361](https://ubuntu.com/security/notices/USN-5901-1)
+-   [CVE-2022-3821](https://ubuntu.com/security/notices/USN-5928-1)
+
 :20230309.v1
 -------------------
 - Released image to mitigate vulnerabilities.
